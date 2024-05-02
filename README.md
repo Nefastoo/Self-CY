@@ -14,11 +14,6 @@ pip install bs4
 
 pip install psutil
 
-🌐 ====== Canal ====== 🌐
-https://www.youtube.com/channel/UCI2j8vfzRQKOVW6fiZuid9w
-
-🌐 ====== Discord ====== 🌐
-https://discord.gg/7cr5mh5rjv
 
 🌐 ====== GitHub ====== 🌐
 https://github.com/Nefastoo
